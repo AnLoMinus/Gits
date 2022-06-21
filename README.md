@@ -8,7 +8,9 @@
 > ## Where future developers meet
 > ### GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
 
-## [GitHub Gist](https://gist.github.com/)
+## [GitHub Gist](https://gist.github.com/) 
+> ## Instantly share code, notes, and snippets.
+
 
 ## [GitLab](https://gitlab.com/) 
 > ## The One DevOps Platform
