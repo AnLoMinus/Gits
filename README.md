@@ -28,12 +28,14 @@
 > ## Where the world builds software
 > ### Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world.
 
-## [GitHub Education](https://education.github.com/) 
+## [GitHub `Education`](https://education.github.com/) 
 > ## Where future developers meet
 > ### GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
 
-## [GitHub Gist](https://gist.github.com/) 
+## [GitHub `Gist`](https://gist.github.com/) 
 > ## Instantly share code, notes, and snippets.
+
+## [GitHub `Docs`](docs.github.com)
 
 
 ## [GitLab](https://gitlab.com/) 
