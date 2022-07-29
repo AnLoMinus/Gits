@@ -24,6 +24,13 @@
 
 # [Gits](https://github.com/Anlominus/Gits)
 
+## [GitHub Bounty](https://bounty.github.com/)
+> ## GitHub Security Bug Bounty
+> ### Software security researchers are increasingly engaging with internet companies to hunt down vulnerabilities. 
+> ### Our bounty program gives a tip of the hat to these researchers and provides rewards of $30,000 or more for critical vulnerabilities.
+
+
+
 ## [GitHub](https://github.com/)
 > ## Where the world builds software
 > ### Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world.
